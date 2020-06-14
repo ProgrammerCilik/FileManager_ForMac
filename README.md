@@ -1,2 +1,5 @@
 # CleanMyMac_Project
-Anda dapat membersihkan folder/file di Mac anda di salah satu tempat ini : Desktop, Documents, Downloads.
+
+Cleaner.sh => Membersihkan File Yang Sudah Tidak Berguna
+Search.sh => Mencari File di Desktop, Documents, dan Downloads
+Maker.sh => Membuat Folder di  Desktop, Documents, dan Downloads
