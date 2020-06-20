@@ -54,6 +54,7 @@ read yn
                 echo "=================================="
                 read f1
                 rmdir $f1
+		rm $f1
                 clear
                 echo "========================================"
                 echo "= Proses Telah Selesai, Terima Kasih.. ="
@@ -69,6 +70,7 @@ read yn
                 echo "=================================="
                 read f2
                 rmdir $f2
+		rm $f2
                 clear
                 echo "========================================"
                 echo "= Proses Telah Selesai, Terima Kasih.. ="
@@ -84,6 +86,7 @@ read yn
                 echo "=================================="
                 read f3
                 rmdir $f3
+		rm $f3
                 clear
                 echo "========================================"
                 echo "= Proses Telah Selesai, Terima Kasih.. ="
